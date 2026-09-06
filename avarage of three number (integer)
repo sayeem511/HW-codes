@@ -1,4 +1,4 @@
-// cslculating avarage of three number (integer)
+// calculating avarage of three number (integer)
 #include<stdio.h>
 int main() {
 
