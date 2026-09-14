@@ -1,4 +1,4 @@
-checking if a number is positive or negative
+//checking if a number is positive or negative
 #include <stdio.h>
 
 int main() {
