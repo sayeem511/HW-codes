@@ -1,4 +1,4 @@
-//checking whether an alphabate is vowel or consonant
+//checking whether an alphabet is vowel or consonant
 #include <stdio.h>
 
 int main() {
@@ -6,10 +6,10 @@ int main() {
     scanf("%c", &ch);
     
     if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u') {
-        printf("the alphabate is vowel");
+        printf("the alphabet is vowel");
     }
     else {
-        printf("the alphabate is consonant");
+        printf("the alphabet is consonant");
     }
     return 0;
     
